@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Projeto_Agregação\bin\Debug\net7.0\Projeto_Agregação.exe
+C:\Users\LAB4\Desktop\Projeto_Agregação\bin\Debug\net7.0\Projeto_Agregação.deps.json
+C:\Users\LAB4\Desktop\Projeto_Agregação\bin\Debug\net7.0\Projeto_Agregação.runtimeconfig.json
+C:\Users\LAB4\Desktop\Projeto_Agregação\bin\Debug\net7.0\Projeto_Agregação.dll
+C:\Users\LAB4\Desktop\Projeto_Agregação\bin\Debug\net7.0\Projeto_Agregação.pdb
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.dll
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\refint\Projeto_Agregação.dll
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.pdb
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\Projeto_Agregação.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Projeto_Agregação\obj\Debug\net7.0\ref\Projeto_Agregação.dll
