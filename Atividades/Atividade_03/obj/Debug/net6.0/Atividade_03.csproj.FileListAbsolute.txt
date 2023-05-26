@@ -1,0 +1,15 @@
+C:\Users\BiancaMilena\Desktop\Atividade_03\bin\Debug\net6.0\Atividade_03.exe
+C:\Users\BiancaMilena\Desktop\Atividade_03\bin\Debug\net6.0\Atividade_03.deps.json
+C:\Users\BiancaMilena\Desktop\Atividade_03\bin\Debug\net6.0\Atividade_03.runtimeconfig.json
+C:\Users\BiancaMilena\Desktop\Atividade_03\bin\Debug\net6.0\Atividade_03.dll
+C:\Users\BiancaMilena\Desktop\Atividade_03\bin\Debug\net6.0\Atividade_03.pdb
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.csproj.AssemblyReference.cache
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.AssemblyInfoInputs.cache
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.AssemblyInfo.cs
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.csproj.CoreCompileInputs.cache
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.dll
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\refint\Atividade_03.dll
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.pdb
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\Atividade_03.genruntimeconfig.cache
+C:\Users\BiancaMilena\Desktop\Atividade_03\obj\Debug\net6.0\ref\Atividade_03.dll
